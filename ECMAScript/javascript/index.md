@@ -2,7 +2,7 @@
 > js是网站三层结构中的行为层，负责处理网站的数据与事件交互。js是一门动态的，弱类型脚本语言。
 
 **js变量有哪些**
-> boolean、null、undefinde、number、string、object。其中基础数据类型有：boolea、undefined、number、string。引用类型有：object、null
+> boolean、null、undefinde、number、string、symbol、bigint、object。其中基础数据类型有：boolea、undefined、number、string、symbol、bigint、。引用类型有：object
 
 **如何判断数据是什么类型**
 
